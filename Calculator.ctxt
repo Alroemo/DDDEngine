@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=ViewFrom\ ViewTo\ x\ y\ z
+comment0.target=double[]\ CalculatePositionP(double[],\ double[],\ double,\ double,\ double)
+comment1.params=ViewFrom\ ViewTo\ x\ y\ z\ P
+comment1.target=double[]\ getProj(double[],\ double[],\ double,\ double,\ double,\ Plane)
+comment2.params=x\ y\ z
+comment2.target=double[]\ getDrawP(double,\ double,\ double)
+comment3.params=ViewFrom\ ViewTo
+comment3.target=Vector\ getRotationVector(double[],\ double[])
+comment4.params=
+comment4.target=void\ SetPrederterminedInfo()
+numComments=5

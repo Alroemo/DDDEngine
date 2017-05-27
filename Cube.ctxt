@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.params=x\ y\ z\ width\ length\ height\ c\ rot
+comment0.target=Cube(double,\ double,\ double,\ double,\ double,\ double,\ java.awt.Color,\ boolean)
+comment1.params=
+comment1.target=void\ setRotAdd()
+comment2.params=toX\ toY\ rot
+comment2.target=void\ UpdateDirection(double,\ double,\ boolean)
+comment3.params=
+comment3.target=void\ updatePoly()
+comment4.params=
+comment4.target=void\ removeCube()
+numComments=5

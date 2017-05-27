@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=DP
+comment0.target=Plane(DPolygon)
+comment1.params=VE1\ VE2\ Z
+comment1.target=Plane(Vector,\ Vector,\ double[])
+numComments=2
